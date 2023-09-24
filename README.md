@@ -40,7 +40,7 @@ Para utilizar cualquiera de estos scripts, sigue estos pasos:
 
 2. Abre una terminal o línea de comandos en ese directorio.
 
-3. Ejecuta el script utilizando Python. Por ejemplo:
+3. Ejecuta el script utilizando Python. Por ejemplo: python mi_script.py
 
 4. Los archivos se organizarán automáticamente en las carpetas correspondientes.
 
